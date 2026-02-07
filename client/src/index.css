@@ -47,16 +47,16 @@
 
 @layer base {
   :root {
-    --background: 210 20% 98%; /* Very light cool gray/white */
-    --foreground: 222 47% 11%; /* Deep navy for text */
+    --background: 210 20% 98%; 
+    --foreground: 222 47% 11%; 
 
-    /* Medical Blue - Trust & Professionalism (#2A7DE1) */
-    --primary: 213 76% 52%; 
-    --primary-foreground: 0 0% 100%;
+    /* Primary: Smiley Yellow (#FFD700) - Joy and Energy */
+    --primary: 47 100% 50%; 
+    --primary-foreground: 222 47% 11%;
 
-    /* Soft Green - Healing & Freshness */
-    --secondary: 145 30% 90%; /* Very light green background */
-    --secondary-foreground: 145 63% 32%; /* Darker green text */
+    /* Secondary: Professional Navy/Blue for contrast */
+    --secondary: 213 94% 68%; 
+    --secondary-foreground: 222 47% 11%;
 
     --card: 0 0% 100%;
     --card-foreground: 222 47% 11%;
@@ -67,17 +67,17 @@
     --muted: 210 40% 96.1%;
     --muted-foreground: 215.4 16.3% 46.9%;
 
-    --accent: 210 40% 96.1%;
-    --accent-foreground: 222.2 47.4% 11.2%;
+    --accent: 47 100% 95%;
+    --accent-foreground: 47 100% 20%;
 
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 210 40% 98%;
 
     --border: 214.3 31.8% 91.4%;
     --input: 214.3 31.8% 91.4%;
-    --ring: 213 76% 52%;
+    --ring: 47 100% 50%;
 
-    --radius: 1rem; /* More rounded for a friendlier feel */
+    --radius: 1rem; 
   }
 
   .dark {

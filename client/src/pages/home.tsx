@@ -2,9 +2,10 @@ import { Navbar } from "@/components/layout/Navbar";
 import { Footer } from "@/components/layout/Footer";
 import { Hero } from "@/components/home/Hero";
 import { ServicesPreview } from "@/components/home/ServicesPreview";
+import { AppointmentForm } from "@/components/home/AppointmentForm";
 import { Button } from "@/components/ui/button";
 import { Link } from "wouter";
-import { Star, MessageSquare } from "lucide-react";
+import { Star, MessageSquare, Smile } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 
@@ -16,6 +17,37 @@ export default function Home() {
       <main>
         <Hero />
         
+        {/* Quick Booking Section */}
+        <section className="py-20 bg-gradient-to-b from-white to-slate-50">
+          <div className="container mx-auto px-4 md:px-6">
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+              <div>
+                <div className="inline-flex items-center gap-2 bg-primary/10 text-primary px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wider mb-4">
+                  <Smile className="h-3 w-3" />
+                  Estamos listos para verte
+                </div>
+                <h2 className="text-3xl md:text-5xl font-heading font-bold text-slate-900 mb-6">
+                  Agenda tu cita en <span className="text-primary">menos de un minuto</span>
+                </h2>
+                <p className="text-muted-foreground text-lg mb-8 leading-relaxed">
+                  No dejes para mañana lo que puedes sonreír hoy. Elige tu tratamiento preferido y nuestro equipo se pondrá en contacto contigo de inmediato.
+                </p>
+                <div className="space-y-4">
+                  <div className="flex gap-4 items-center">
+                    <div className="bg-white p-2 rounded-full shadow-sm text-primary">
+                      <Star className="h-5 w-5 fill-current" />
+                    </div>
+                    <p className="font-medium text-slate-700">Atención de alta calidad garantizada</p>
+                  </div>
+                </div>
+              </div>
+              <div>
+                <AppointmentForm />
+              </div>
+            </div>
+          </div>
+        </section>
+
         <ServicesPreview />
 
         {/* About / Trust Section */}

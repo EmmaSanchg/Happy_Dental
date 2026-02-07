@@ -1,7 +1,7 @@
 import { Link, useLocation } from "wouter";
 import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
-import { Menu, Phone } from "lucide-react";
+import { Menu, Phone, Smile } from "lucide-react";
 import { useState } from "react";
 
 export function Navbar() {
@@ -20,24 +20,11 @@ export function Navbar() {
       <div className="container mx-auto px-4 md:px-6 h-20 flex items-center justify-between">
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2 cursor-pointer">
-          <div className="bg-primary/10 p-2 rounded-xl">
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              strokeWidth="2"
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              className="h-6 w-6 text-primary"
-            >
-              <path d="M12 2C7.029 2 3 6.029 3 11c0 4.971 4.029 9 9 9 4.971 0 9-4.029 9-9 0-4.971-4.029-9-9-9z" />
-              <path d="M12 2v18" />
-              <path d="M2 12h20" />
-            </svg>
+          <div className="bg-primary p-2 rounded-xl shadow-sm">
+            <Smile className="h-6 w-6 text-primary-foreground" />
           </div>
           <div className="flex flex-col">
-            <span className="font-heading font-bold text-lg leading-none text-primary">
+            <span className="font-heading font-bold text-lg leading-none text-slate-900">
               Happy Dental
             </span>
             <span className="text-xs text-muted-foreground font-medium tracking-wider uppercase">
