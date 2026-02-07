@@ -1,0 +1,307 @@
+Quiero que actúes como diseñador y desarrollador web profesional especializado en páginas para servicios de salud. Necesito que diseñes y desarrolles un sitio web moderno, confiable y atractivo para mi consultorio dental.
+
+📌 Información general del negocio
+
+Nombre del consultorio: [Agregar nombre]
+
+Ubicación: [Dirección completa]
+
+Teléfono y WhatsApp: [Número]
+
+Correo electrónico: [Correo]
+
+Horarios de atención: [Horarios]
+
+Redes sociales: [Links si existen]
+
+🎯 Objetivo del sitio web
+
+El sitio debe:
+
+Generar confianza en nuevos pacientes.
+
+Mostrar profesionalismo y calidad del servicio.
+
+Facilitar el contacto y agendamiento de citas.
+
+Mostrar servicios dentales ofrecidos.
+
+Explicar tratamientos de forma sencilla.
+
+Ser accesible desde celular, tablet y computadora (responsive).
+
+Optimizarse para aparecer en Google (SEO básico).
+
+🎨 Estilo visual y diseño
+
+Quiero un diseño que transmita:
+
+Limpieza
+
+Profesionalismo
+
+Seguridad
+
+Tranquilidad
+
+Modernidad médica
+
+Referencias visuales:
+
+Diseño minimalista
+
+Uso de espacios en blanco
+
+Elementos suaves y redondeados
+
+Animaciones ligeras y elegantes
+
+Diseño fácil de navegar
+
+🎨 Paleta de colores sugerida
+
+Quiero una combinación relacionada con salud y limpieza:
+
+Azul médico (#2A7DE1 o similar)
+
+Blanco predominante
+
+Gris claro o tonos neutros
+
+Verde suave como color secundario
+
+Estoy abierto a propuestas que mantengan sensación médica y profesional.
+
+🔤 Tipografía
+
+Quiero tipografías:
+
+Modernas
+
+Fáciles de leer
+
+Profesionales
+
+Adecuadas para salud
+
+Ejemplo:
+
+Sans serif como Poppins, Open Sans o similar.
+
+🧭 Estructura del sitio
+
+El sitio debe incluir mínimo estas secciones:
+
+🏠 Inicio
+
+Imagen principal atractiva (consultorio o paciente sonriente)
+
+Mensaje de bienvenida
+
+Botón de agendar cita
+
+Resumen de servicios principales
+
+Opiniones de pacientes
+
+Llamadas a la acción
+
+👨‍⚕️ Sobre Nosotros
+
+Historia del consultorio
+
+Información del doctor o doctores
+
+Certificaciones
+
+Experiencia profesional
+
+Fotos reales del consultorio y equipo
+
+🦷 Servicios
+
+Cada servicio debe tener:
+
+Descripción clara
+
+Beneficios
+
+Imagen o icono
+
+Ejemplos de tratamientos
+
+Ejemplos:
+
+Limpieza dental
+
+Ortodoncia
+
+Blanqueamiento
+
+Extracciones
+
+Endodoncia
+
+Implantes
+
+Odontología estética
+
+📅 Agenda tu cita
+
+Debe incluir:
+
+Formulario de contacto
+
+Integración con WhatsApp
+
+Selección de fecha y hora (si es posible)
+
+Confirmación automática
+
+📍 Ubicación
+
+Mapa integrado
+
+Indicaciones para llegar
+
+Opciones de transporte
+
+⭐ Testimonios
+
+Opiniones reales de pacientes
+
+Sistema de calificación
+
+Fotos opcionales
+
+❓ Preguntas frecuentes
+
+Explicar dudas comunes como:
+
+Dolor en tratamientos
+
+Formas de pago
+
+Procedimientos
+
+Cuidados posteriores
+
+📞 Contacto
+
+Teléfono
+
+WhatsApp
+
+Email
+
+Formulario
+
+Horarios
+
+🖼️ Imágenes e iconografía
+
+Necesito:
+
+Fotografías reales del consultorio (si proporciono)
+
+Imágenes médicas profesionales y limpias
+
+Iconos relacionados con odontología
+
+Ilustraciones modernas
+
+Evitar imágenes genéricas poco profesionales
+
+⚙️ Funcionalidades necesarias
+
+Diseño responsive
+
+Optimización SEO básica
+
+Botón flotante de WhatsApp
+
+Integración con Google Maps
+
+Velocidad de carga optimizada
+
+Seguridad SSL
+
+Panel para actualizar contenido (si es posible)
+
+Integración con redes sociales
+
+🔍 SEO y posicionamiento
+
+Quiero que el sitio esté optimizado para:
+
+"Dentista en [Ciudad]"
+
+"Clínica dental en [Ciudad]"
+
+"Blanqueamiento dental cerca de mí"
+
+♿ Accesibilidad
+
+Considerar:
+
+Texto legible
+
+Buen contraste de colores
+
+Navegación sencilla
+
+Compatible con lectores de pantalla
+
+📱 Experiencia de usuario
+
+Quiero que el sitio sea:
+
+Intuitivo
+
+Rápido
+
+Fácil de navegar
+
+Con botones visibles para agendar citas
+
+💻 Tecnologías sugeridas
+
+Estoy abierto a:
+
+HTML, CSS, JavaScript
+
+Frameworks modernos
+
+WordPress o desarrollo personalizado
+
+Hosting confiable
+
+📦 Entregables
+
+Necesito:
+
+Diseño visual completo
+
+Sitio web funcional
+
+Código fuente
+
+Manual básico de uso
+
+Optimización para dispositivos móviles
+
+💬 Extras que me interesan
+
+Opcionales pero deseables:
+
+Blog sobre salud dental
+
+Sistema de recordatorios de citas
+
+Chat en vivo
+
+Integración con redes sociales
+
+Galería antes y después
+
+Si necesitas información adicional del consultorio, házmelo saber antes de comenzar el desarrollo.
